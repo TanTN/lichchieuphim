@@ -11,21 +11,22 @@
 #main {
     overflow: hidden;
 }
+
 .btn {
     display: flex;
     align-items: center;
     color: var(--pink);
     font-size: 1.6rem;
-    padding: 5px 15px;
+    padding: 7px 18px;
     border: 1px solid var(--pink);
     background-color: unset;
-    border-radius: 15px;
+    border-radius: 18px;
     margin: 23px auto 57px;
     cursor: pointer;
 }
 .btn:hover {
     background-color: var(--pinkpatel);
 }
-.btn i {
-    padding-right: 5px;
+.btn span {
+    padding-left: 8px;
 }
