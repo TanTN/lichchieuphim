@@ -940,7 +940,7 @@ const openApp = {
         //  link main
         if (window.innerWidth > 1024) {
             $('.content-right-item-href').href = 'https://momo.vn/cinema/blog-dien-anh'
-            $('.lich-chieu').href = 'http://127.0.0.1:5500/lich%20chieu%20phim%20momo/lich%20chieu%20phim%20momo/assets/lich-chieu.html'
+            $('.lich-chieu').href = 'http://127.0.0.1:5500/assets/lich-chieu.html'
         }
         
         // click vao rap
